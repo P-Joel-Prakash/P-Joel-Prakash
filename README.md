@@ -1,5 +1,5 @@
-![logo](https://media.licdn.com/dms/image/C5616AQFq0wb1WUUOeg/profile-displaybackgroundimage-shrink_350_1400/0/1648720128237?e=1692230400&v=beta&t=vHwz_mWt1djDJyWtcGpVhNAdxxqycNUqzbyFXuDOehk)
-<h1 align="center">Hi 👋, I'm JOEL PRAKASH</h1>
+ 
+ <h1 align="center">Hi 👋, I'm JOEL PRAKASH</h1>
  
 <img alt="Coder GIF" height=350 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-joel-prakash&label=Profile%20views&color=0e75b6&style=flat" alt="p-joel-prakash" /> </p>
